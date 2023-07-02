@@ -1,0 +1,42 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\000031}}
+#lucky-draw { width: 100vw; height: 100vh; background-image: url("../../images/lucky-draw/random.jpg"); background-size: cover; background-repeat: no-repeat; background-position: right bottom; position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000310}}
+#lucky-draw .step { display: none; position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 90%; height: 90%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000319}}
+#lucky-draw .step.show { display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000324}}
+#lucky-draw .add-file { position: absolute; right: 0; top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000329}}
+#lucky-draw .add-file input { opacity: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000333}}
+#lucky-draw .add-file label { width: 50px; height: auto; display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000338}}
+#lucky-draw .add-file label img { display: block; width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000345}}
+#lucky-draw .title { font-size: 60px; text-align: center; color: #F37121; position: absolute; top: 20%; left: 50%; -webkit-transform: translateX(-50%); transform: translateX(-50%); text-shadow: 2px 2px 0 #ffffff, 2px -2px 0 #ffffff, -2px 2px 0 #ffffff, -2px -2px 0 #ffffff, 2px 0px 0 #ffffff, 0px 2px 0 #ffffff, -2px 0px 0 #ffffff, 0px -2px 0 #ffffff, 2px 2px 2px rgba(255, 255, 255, 0); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000356}}
+#lucky-draw .group-gift { position: absolute; top: 40%; left: 50%; -webkit-transform: translateX(-50%); transform: translateX(-50%); display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-pack: distribute; justify-content: space-around; width: 100%; max-width: 600px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000366}}
+#lucky-draw .group-gift .btn-gift { font-family: 'Bungee', cursive; background-color: #ffffff; border-color: #ffffff; border-width: 0; font-size: 24px; color: #28a745; padding: 10px 20px; border-radius: 25rem; min-width: 150px; box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); -webkit-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); -moz-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000382}}
+#lucky-draw .group-random { position: absolute; top: 40%; left: 50%; -webkit-transform: translateX(-50%); transform: translateX(-50%); width: 100%; max-width: 600px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000390}}
+#lucky-draw .group-random .code { margin-bottom: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000393}}
+#lucky-draw .group-random .code label { color: #F37121; margin-bottom: 10px; display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\0000399}}
+#lucky-draw .group-random .code .form-code { padding: 20px; background-color: #fff; border-radius: 10px; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); -webkit-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); -moz-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\00003109}}
+#lucky-draw .group-random .code .form-code .code { -webkit-box-flex: 0; -ms-flex: 0 0 20%; flex: 0 0 20%; font-size: 40px; color: #F37121; text-align: center; margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\00003119}}
+#lucky-draw .group-random .gift { font-size: 60px; text-align: center; color: #ffffff; margin-bottom: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\00003126}}
+#lucky-draw .group-random .randomCode { font-family: 'Bungee', cursive; background-color: #ffffff; border-color: #ffffff; border-width: 0; font-size: 24px; color: #28a745; padding: 10px 20px; border-radius: 25rem; min-width: 250px; margin: auto; display: block; box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); -webkit-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); -moz-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.75); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\00003144}}
+#lucky-draw .list-winner { position: absolute; right: 0; top: 0; width: 300px; font-size: 20px; color: #F37121; background-color: #ffffff; padding: 20px; border-radius: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\00003155}}
+#lucky-draw .list-winner .ls-w { color: #28a745; margin-bottom: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/myho\/Sites\/Sources\/harico\/public\/frontend\/css\/haribo-2023\/main\.scss}line{font-family:\00003160}}
+#lucky-draw .list-winner .l { font-size: 30px; }
+
+/*# sourceMappingURL=main.css.map */

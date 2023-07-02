@@ -1,0 +1,7 @@
+/* Add here all your CSS customizations */
+.btn-actions .btn{
+    white-space: nowrap;
+}
+.ajax-action{
+    cursor: pointer;
+}

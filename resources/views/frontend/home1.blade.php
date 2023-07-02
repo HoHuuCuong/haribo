@@ -1,0 +1,9 @@
+@extends('frontend.master')
+@section('content')
+@include('frontend.widgets.topbanner')
+@include('frontend.widgets.threepoint')
+@include('frontend.widgets.result')
+@include('frontend.widgets.product')
+@include('frontend.widgets.about2')
+@include('frontend.widgets.formcontact')
+@endsection
